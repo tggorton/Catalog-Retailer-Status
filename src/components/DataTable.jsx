@@ -6,21 +6,22 @@ import {
 import CircleIcon from '@mui/icons-material/Circle';
 
 const StatusDot = ({ status }) => {
-  console.log("StatusDot received status:", status); // Log received status
+  console.log("StatusDot received status:", status);
   let color;
-  let standardizedStatus = status ? String(status).toLowerCase() : ''; // Ensure string conversion
-  console.log("StatusDot standardized:", standardizedStatus); // Log standardized status
+  let standardizedStatus = status ? String(status).toLowerCase() : '';
+  console.log("StatusDot standardized:", standardizedStatus);
 
-  if (standardizedStatus.includes('approved') || standardizedStatus.includes('active')) {
-    color = 'green';
-  } else if (standardizedStatus.includes('not approved') || standardizedStatus.includes('offline') || standardizedStatus.includes('deactivated') || standardizedStatus.includes('not active') || standardizedStatus.includes('not available')) { // Added 'not available'
-    color = 'red';
+  // Reordered checks: Red/Orange first, then Green
+  if (standardizedStatus.includes('not approved') || standardizedStatus.includes('offline') || standardizedStatus.includes('deactivated') || standardizedStatus.includes('not active') || standardizedStatus.includes('not available')) {
+    color = 'red'; // Check red first
   } else if (standardizedStatus.includes('pending')) {
-    color = 'orange';
+    color = 'orange'; // Check pending second
+  } else if (standardizedStatus.includes('approved') || standardizedStatus.includes('active')) {
+    color = 'green'; // Check green last
   } else {
     color = 'grey'; // Default for unknown statuses
   }
-  console.log("StatusDot determined color:", color); // Log determined color
+  console.log("StatusDot determined color:", color);
   return <CircleIcon sx={{ fontSize: '12px', color: color, verticalAlign: 'middle', marginRight: '5px' }} />;
 };
 

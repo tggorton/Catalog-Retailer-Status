@@ -2,7 +2,7 @@ import React, { useState, useMemo } from 'react';
 // import Papa from 'papaparse';
 import { Typography, Box, CircularProgress } from '@mui/material';
 import DataTable from '../components/DataTable';
-import productData from '../data/productData.json'; // Import the JSON data
+import productData from '../data/productData.json'; // Corrected path
 
 const ProductCatalogStatus = () => {
   // const [data, setData] = useState([]);

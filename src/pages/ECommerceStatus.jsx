@@ -2,7 +2,7 @@ import React, { useState, useMemo } from 'react';
 // import Papa from 'papaparse';
 import { Typography, Box, CircularProgress } from '@mui/material';
 import DataTable from '../components/DataTable';
-import ecommerceData from '../data/ecommerceData.json'; // Corrected path
+import eCommerceFeedData from '../data/Tab2-eCommerce.json'; // Corrected filename and variable name
 
 const ECommerceStatus = () => {
   // const [data, setData] = useState([]);
@@ -11,9 +11,9 @@ const ECommerceStatus = () => {
 
   // Filter data directly from imported JSON
   const validData = useMemo(() => {
-    console.log('ECommerceStatus: Raw Imported Data:', ecommerceData);
+    console.log('ECommerceStatus: Raw Imported Data:', eCommerceFeedData);
     // Filter out potential empty rows or rows with only null/empty values
-    const filtered = ecommerceData.filter(row => Object.values(row).some(val => val !== null && String(val).trim() !== ''));
+    const filtered = eCommerceFeedData.filter(row => Object.values(row).some(val => val !== null && String(val).trim() !== ''));
     console.log('ECommerceStatus: Filtered Imported Data (validData):', filtered);
     return filtered;
   }, []); // Run memoization only once

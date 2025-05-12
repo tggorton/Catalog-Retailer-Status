@@ -1,0 +1,6995 @@
+[
+    {
+        "RETAILER": "Walmart",
+        "SOURCE": "Direct API",
+        "APPROVAL STATUS": "Approved",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Product Match, Kerv Kart, Gateway Shop & KK+, Dynamic Price & Availability"
+    },
+    {
+        "RETAILER": "Walgreens",
+        "SOURCE": "Direct API",
+        "APPROVAL STATUS": "Approved",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Product Match, Kerv Kart, Dynamic Price & Availability, Gateway Shop & KK+"
+    },
+    {
+        "RETAILER": "Amazon",
+        "SOURCE": "Direct API",
+        "APPROVAL STATUS": "Approved",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Kerv Kart, Dynamic Price & Availability"
+    },
+    {
+        "RETAILER": "Sam's Club",
+        "SOURCE": "Client: File Server",
+        "APPROVAL STATUS": "Approved",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Product Match, Kerv Kart, Dynamic Price & Availability"
+    },
+    {
+        "RETAILER": "Old Navy",
+        "SOURCE": "Client: File Server",
+        "APPROVAL STATUS": "Approved",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Product Match, Kerv Kart, Gateway Shop & KK+, Dynamic Price & Availability"
+    },
+    {
+        "RETAILER": "The Home Depot",
+        "SOURCE": "Client: S3 Bucket",
+        "APPROVAL STATUS": "Approved",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Product Match, Kerv Kart, Dynamic Price & Availability"
+    },
+    {
+        "RETAILER": "Best Buy",
+        "SOURCE": "Direct API, Impact.com",
+        "APPROVAL STATUS": "Deactivated",
+        "CURRENT STATE": "Pending Affiliate Approval",
+        "APPLICABLE PRODUCTS": "Kerv Kart, Gateway Shop & KK+, Dynamic Price & Availability"
+    },
+    {
+        "RETAILER": "Kroger",
+        "SOURCE": "Direct API",
+        "APPROVAL STATUS": "Pending Approval",
+        "CURRENT STATE": "KPC Integration Required, Pending API Approval",
+        "APPLICABLE PRODUCTS": "Kerv Kart, Dynamic Price & Availability"
+    },
+    {
+        "RETAILER": "Target",
+        "SOURCE": "Direct API, Impact.com, Shoppable",
+        "APPROVAL STATUS": "Pending Approval",
+        "CURRENT STATE": "Pending Affiliate Approval, KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Product Match, Kerv Kart, Gateway Shop & KK+, Dynamic Price & Availability"
+    },
+    {
+        "RETAILER": "Wayfair",
+        "SOURCE": "Client: S3 Bucket",
+        "APPROVAL STATUS": "Approved",
+        "CURRENT STATE": "Turnkey",
+        "APPLICABLE PRODUCTS": "Product Match, Kerv Kart, Dynamic Price & Availability"
+    },
+    {
+        "RETAILER": "Fanatics",
+        "SOURCE": "Impact.com",
+        "APPROVAL STATUS": "Approved",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Kerv Kart, Dynamic Price & Availability, Product Match, Gateway Shop & KK+"
+    },
+    {
+        "RETAILER": "Longhorns Team Shop",
+        "SOURCE": "Impact.com",
+        "APPROVAL STATUS": "Approved",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Kerv Kart, Dynamic Price & Availability, Product Match"
+    },
+    {
+        "RETAILER": "Golden State Warriors Shop",
+        "SOURCE": "Impact.com",
+        "APPROVAL STATUS": "Approved",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Kerv Kart, Dynamic Price & Availability, Product Match"
+    },
+    {
+        "RETAILER": "San Francisco 49rs Fan Shop",
+        "SOURCE": "Impact.com",
+        "APPROVAL STATUS": "Approved",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Kerv Kart, Dynamic Price & Availability, Product Match"
+    },
+    {
+        "RETAILER": "NBA Store",
+        "SOURCE": "Impact.com",
+        "APPROVAL STATUS": "Approved",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Kerv Kart, Dynamic Price & Availability, Product Match"
+    },
+    {
+        "RETAILER": "NFL Shop",
+        "SOURCE": "Impact.com",
+        "APPROVAL STATUS": "Approved",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Kerv Kart, Dynamic Price & Availability, Product Match"
+    },
+    {
+        "RETAILER": "MLB Shop",
+        "SOURCE": "Impact.com",
+        "APPROVAL STATUS": "Approved",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Kerv Kart, Dynamic Price & Availability, Product Match"
+    },
+    {
+        "RETAILER": "NHL Shop",
+        "SOURCE": "Impact.com",
+        "APPROVAL STATUS": "Approved",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Kerv Kart, Dynamic Price & Availability, Product Match"
+    },
+    {
+        "RETAILER": "MLS Store",
+        "SOURCE": "Impact.com",
+        "APPROVAL STATUS": "Approved",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Kerv Kart, Dynamic Price & Availability, Product Match"
+    },
+    {
+        "RETAILER": "UFC Store",
+        "SOURCE": "Impact.com",
+        "APPROVAL STATUS": "Approved",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Kerv Kart, Dynamic Price & Availability, Product Match"
+    },
+    {
+        "RETAILER": "WWE Store",
+        "SOURCE": "Impact.com",
+        "APPROVAL STATUS": "Approved",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Kerv Kart, Dynamic Price & Availability, Product Match"
+    },
+    {
+        "RETAILER": "Reef",
+        "SOURCE": "Impact.com",
+        "APPROVAL STATUS": "Approved",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Kerv Kart, Dynamic Price & Availability, Product Match"
+    },
+    {
+        "RETAILER": "StockX",
+        "SOURCE": "Impact.com",
+        "APPROVAL STATUS": "Approved",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Kerv Kart, Dynamic Price & Availability, Product Match"
+    },
+    {
+        "RETAILER": "Eufy",
+        "SOURCE": "Impact.com",
+        "APPROVAL STATUS": "Approved",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Kerv Kart, Dynamic Price & Availability, Product Match"
+    },
+    {
+        "RETAILER": "Mizuno",
+        "SOURCE": "Impact.com",
+        "APPROVAL STATUS": "Approved",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Kerv Kart, Dynamic Price & Availability, Product Match"
+    },
+    {
+        "RETAILER": "Rosetta Stone",
+        "SOURCE": "Impact.com",
+        "APPROVAL STATUS": "Approved",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Kerv Kart, Dynamic Price & Availability, Product Match"
+    },
+    {
+        "RETAILER": "Thermoflask",
+        "SOURCE": "Impact.com",
+        "APPROVAL STATUS": "Approved",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Kerv Kart, Dynamic Price & Availability, Product Match"
+    },
+    {
+        "RETAILER": "StubHub",
+        "SOURCE": "Impact.com",
+        "APPROVAL STATUS": "Approved",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Kerv Kart, Dynamic Price & Availability, Product Match"
+    },
+    {
+        "RETAILER": "Govee",
+        "SOURCE": "Impact.com",
+        "APPROVAL STATUS": "Approved",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Kerv Kart, Dynamic Price & Availability, Product Match"
+    },
+    {
+        "RETAILER": "Ebay",
+        "SOURCE": "Direct API",
+        "APPROVAL STATUS": "Pending Approval",
+        "CURRENT STATE": "Pending API Approval, KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Kerv Kart, Dynamic Price & Availability"
+    },
+    {
+        "RETAILER": "Academy Sports + Outdoors",
+        "SOURCE": "Shoppable",
+        "APPROVAL STATUS": "Pending Activation",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Kerv Kart, Gateway Shop & KK+, Dynamic Price & Availability"
+    },
+    {
+        "RETAILER": "Ace Hardware",
+        "SOURCE": "Shoppable",
+        "APPROVAL STATUS": "Pending Activation",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Kerv Kart, Gateway Shop & KK+, Dynamic Price & Availability"
+    },
+    {
+        "RETAILER": "DSW",
+        "SOURCE": "Shoppable",
+        "APPROVAL STATUS": "Pending Activation",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Kerv Kart, Gateway Shop & KK+, Dynamic Price & Availability"
+    },
+    {
+        "RETAILER": "LOFT",
+        "SOURCE": "Shoppable",
+        "APPROVAL STATUS": "Pending Activation",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Kerv Kart, Gateway Shop & KK+, Dynamic Price & Availability"
+    },
+    {
+        "RETAILER": "Michael Kors",
+        "SOURCE": "Shoppable",
+        "APPROVAL STATUS": "Pending Activation",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Kerv Kart, Gateway Shop & KK+, Dynamic Price & Availability"
+    },
+    {
+        "RETAILER": "Neiman Marcus",
+        "SOURCE": "Shoppable",
+        "APPROVAL STATUS": "Pending Activation",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Kerv Kart, Gateway Shop & KK+, Dynamic Price & Availability"
+    },
+    {
+        "RETAILER": "Nine West",
+        "SOURCE": "Shoppable",
+        "APPROVAL STATUS": "Pending Activation",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Kerv Kart, Gateway Shop & KK+, Dynamic Price & Availability"
+    },
+    {
+        "RETAILER": "Office Depot",
+        "SOURCE": "Shoppable",
+        "APPROVAL STATUS": "Pending Activation",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Kerv Kart, Gateway Shop & KK+, Dynamic Price & Availability"
+    },
+    {
+        "RETAILER": "Petco",
+        "SOURCE": "Shoppable",
+        "APPROVAL STATUS": "Pending Activation",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Kerv Kart, Gateway Shop & KK+, Dynamic Price & Availability"
+    },
+    {
+        "RETAILER": "Sephora",
+        "SOURCE": "Shoppable",
+        "APPROVAL STATUS": "Pending Activation",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Kerv Kart, Gateway Shop & KK+, Dynamic Price & Availability"
+    },
+    {
+        "RETAILER": "Staples",
+        "SOURCE": "Shoppable",
+        "APPROVAL STATUS": "Pending Activation",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Kerv Kart, Gateway Shop & KK+, Dynamic Price & Availability"
+    },
+    {
+        "RETAILER": "Ulta",
+        "SOURCE": "Shoppable",
+        "APPROVAL STATUS": "Pending Activation",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Kerv Kart, Gateway Shop & KK+, Dynamic Price & Availability"
+    },
+    {
+        "RETAILER": "CVS",
+        "SOURCE": "Shoppable",
+        "APPROVAL STATUS": "Pending Activation",
+        "CURRENT STATE": "KPC Integration Required",
+        "APPLICABLE PRODUCTS": "Kerv Kart, Gateway Shop & KK+, Dynamic Price & Availability"
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    },
+    {
+        "RETAILER": NaN,
+        "SOURCE": NaN,
+        "APPROVAL STATUS": NaN,
+        "CURRENT STATE": NaN,
+        "APPLICABLE PRODUCTS": NaN
+    }
+]

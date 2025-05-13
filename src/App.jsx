@@ -2,8 +2,17 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import Layout from './components/Layout';
+import AuthWrapper from './components/AuthWrapper';
 import ProductCatalogStatus from './pages/ProductCatalogStatus';
 import ECommerceStatus from './pages/ECommerceStatus';
+import LoginPage from './pages/LoginPage';
+import { DataProvider } from './context/DataContext';
+import { LogProvider } from './context/LogContext';
+// Admin pages
+import AdminDashboard from './pages/admin/AdminDashboard';
+import AdminProductCatalog from './pages/admin/AdminProductCatalog';
+import AdminECommerce from './pages/admin/AdminECommerce';
+import AdminLogPage from './pages/admin/AdminLogPage';
 
 // Define the theme
 const theme = createTheme({
@@ -34,15 +43,43 @@ const theme = createTheme({
 function App() {
   return (
     <ThemeProvider theme={theme}>
-      <Router>
-        <Layout theme={theme}> { /* Pass theme to Layout */}
-          <Routes>
-            <Route path="/" element={<ProductCatalogStatus />} />
-            <Route path="/ecommerce" element={<ECommerceStatus />} />
-            {/* Add other routes as needed */}
-          </Routes>
-        </Layout>
-      </Router>
+      <LogProvider>
+        <DataProvider>
+          <Router>
+            <Routes>
+              <Route path="/login" element={<LoginPage />} />
+              
+              {/* Main App Routes wrapped in Layout */}
+              <Route path="/*" element={
+                <Layout theme={theme}>
+                  <Routes>
+                    <Route path="/" element={<ProductCatalogStatus />} />
+                    <Route path="/ecommerce" element={<ECommerceStatus />} />
+                    {/* Admin Pages - wrapped by AuthWrapper AND Layout */}
+                    <Route 
+                      path="/admin"
+                      element={<AuthWrapper><AdminDashboard /></AuthWrapper>} 
+                    />
+                    <Route 
+                      path="/admin/product-catalog"
+                      element={<AuthWrapper><AdminProductCatalog /></AuthWrapper>} 
+                    />
+                    <Route 
+                      path="/admin/ecommerce"
+                      element={<AuthWrapper><AdminECommerce /></AuthWrapper>} 
+                    />
+                    <Route 
+                      path="/admin/log"
+                      element={<AuthWrapper><AdminLogPage /></AuthWrapper>} 
+                    />
+                    <Route path="*" element={<ProductCatalogStatus />} /> {/* Default for main app */}
+                  </Routes>
+                </Layout>
+              } />
+            </Routes>
+          </Router>
+        </DataProvider>
+      </LogProvider>
     </ThemeProvider>
   );
 }

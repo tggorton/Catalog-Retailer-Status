@@ -1,23 +1,46 @@
 import React from 'react';
-import { Box, Drawer, List, ListItem, ListItemButton, ListItemIcon, ListItemText, Toolbar, Typography, CssBaseline, AppBar } from '@mui/material';
-import { Link, useLocation } from 'react-router-dom';
+import { Box, Drawer, List, ListItem, ListItemButton, ListItemIcon, ListItemText, Toolbar, Typography, CssBaseline, AppBar, Button } from '@mui/material';
+import { Link, useLocation, useNavigate } from 'react-router-dom';
 import FeedIcon from '@mui/icons-material/Feed'; // Example Icon
 import StorefrontIcon from '@mui/icons-material/Storefront'; // Example Icon
 import KervLogo from '../assets/kerv-logo.png'; // Import the logo
+import { Link as RouterLink } from 'react-router-dom';
+import LogoutIcon from '@mui/icons-material/Logout'; // Added LogoutIcon
 
 const drawerWidth = 240;
 
 const Layout = ({ children, theme }) => {
   const location = useLocation();
+  const navigate = useNavigate(); // Initialize navigate
+
+  const isAuthenticated = localStorage.getItem('isAdminAuthenticated') === 'true';
+  const isInAdminSection = location.pathname.startsWith('/admin');
 
   const menuItems = [
     { text: 'Product Catalog Status', path: '/', icon: <FeedIcon /> },
     { text: 'eCommerce Status', path: '/ecommerce', icon: <StorefrontIcon /> },
   ];
 
-  // Find the current page title based on the path
-  const currentPage = menuItems.find(item => item.path === location.pathname);
-  const pageTitle = currentPage ? currentPage.text : '';
+  let pageTitle = '';
+  if (isInAdminSection) {
+    if (location.pathname === '/admin' || location.pathname === '/admin/') {
+        pageTitle = 'Admin Dashboard';
+    } else if (location.pathname === '/admin/product-catalog') {
+        pageTitle = 'Admin - Product Catalog';
+    } else if (location.pathname === '/admin/ecommerce') {
+        pageTitle = 'Admin - eCommerce';
+    } else {
+        pageTitle = 'Admin Panel';
+    }
+  } else {
+    const currentPage = menuItems.find(item => item.path === location.pathname);
+    pageTitle = currentPage ? currentPage.text : 'KERV Dashboard';
+  }
+
+  const handleLogout = () => {
+    localStorage.removeItem('isAdminAuthenticated');
+    navigate('/login');
+  };
 
   return (
     <Box sx={{ display: 'flex' }}>
@@ -33,10 +56,44 @@ const Layout = ({ children, theme }) => {
       >
         <Toolbar>
           <img src={KervLogo} alt="KERV Logo" style={{ height: '40px', marginRight: '15px' }} />
-          {/* Display the current page title */}
-          <Typography variant="h6" noWrap component="div" sx={{ fontWeight: 'bold' }}>
+          <Typography variant="h6" noWrap component="div" sx={{ fontWeight: 'bold', flexGrow: 1 }}>
             {pageTitle}
           </Typography>
+          {isAuthenticated && isInAdminSection ? (
+            <Button 
+              color="inherit" 
+              onClick={handleLogout}
+              startIcon={<LogoutIcon />}
+              sx={{ 
+                color: '#000',
+                borderColor: 'rgba(0, 0, 0, 0.23)',
+                '&:hover': {
+                  backgroundColor: 'rgba(0, 0, 0, 0.04)',
+                  borderColor: 'rgba(0, 0, 0, 0.5)',
+                }
+              }}
+              variant="outlined"
+            >
+              Logout
+            </Button>
+          ) : (
+            <Button 
+              color="inherit" 
+              component={RouterLink} 
+              to="/admin"
+              sx={{ 
+                color: '#000',
+                borderColor: 'rgba(0, 0, 0, 0.23)',
+                '&:hover': {
+                  backgroundColor: 'rgba(0, 0, 0, 0.04)',
+                  borderColor: 'rgba(0, 0, 0, 0.5)',
+                }
+              }}
+              variant="outlined"
+            >
+              Admin
+            </Button>
+          )}
         </Toolbar>
       </AppBar>
       <Drawer
